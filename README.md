@@ -1,15 +1,15 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nikku Kumar Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikku9678&label=Profile%20views&color=0e75b6&style=flat" alt="nikku9678" /> </p>
 
 
-- 🌱 I’m currently learning **Php and MySql**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://nikku-kumar.vercel.app/](https://nikku-kumar.vercel.app/)
 
-- 💬 Ask me about **Frontend Dvelopment, Data Structure and Algorithm**
+- 💬 Ask me about **Mern Stack Development, Data Structure and Algorithm**
 
 - 📫 How to reach me **kumarnikku300@gmail.com**
 
