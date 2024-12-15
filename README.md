@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://nikku-kumar.vercel.app/](https://nikku-kumar.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://nikku-delta.vercel.app/](https://nikku-delta.vercel.app/)
 
 - 💬 Ask me about **Mern Stack Development, Data Structure and Algorithm**
 
